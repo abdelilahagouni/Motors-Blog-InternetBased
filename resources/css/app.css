@@ -1,0 +1,18 @@
+@import "tailwindcss/base";
+
+@import "tailwindcss/components";
+
+@import "tailwindcss/utilities";
+
+
+html, body{
+    font-family: 'Montserrat', sans-serif !important;
+}
+
+.hero-bg-image{
+    background:url('https://images.pexels.com/photos/899238/pexels-photo-899238.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1')  no-repeat center center /cover;
+    background-attachment: fixed;
+    height: 600px;
+    
+    
+}
